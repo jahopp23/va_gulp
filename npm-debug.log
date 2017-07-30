@@ -1,0 +1,18 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'cache', 'clean', '-f' ]
+2 info using npm@1.4.21
+3 info using node@v0.10.29
+4 warn using --force I sure hope you know what you are doing.
+5 error Error: ENOTEMPTY, rmdir '/root/.npm/registry.npmjs.org'
+6 error If you need help, you may report this *entire* log,
+6 error including the npm and node versions, at:
+6 error     <http://github.com/npm/npm/issues>
+7 error System Linux 4.9.35-v7+
+8 error command "/usr/bin/nodejs" "/usr/bin/npm" "cache" "clean" "-f"
+9 error cwd /home/pi/va_gulp
+10 error node -v v0.10.29
+11 error npm -v 1.4.21
+12 error path /root/.npm/registry.npmjs.org
+13 error code ENOTEMPTY
+14 error errno 53
+15 verbose exit [ 53, true ]
