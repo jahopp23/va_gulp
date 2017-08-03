@@ -90,7 +90,7 @@
   display: inline-block;
   margin-right: 3.00em;
   font-weight: bolder;
-  color: black;
+ 
   
   
   
@@ -426,3 +426,12 @@ img{
     margin-left: 2.00em;
     text-align: left;
     }
+
+.zeit{
+   background-image: url('/public/images/zeit.png');
+   height: 400px;
+   background-size: 200px;
+   background-position: 63% -32%;
+   background-repeat: no-repeat;   
+
+  }

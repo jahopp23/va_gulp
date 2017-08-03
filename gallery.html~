@@ -7,6 +7,9 @@
 <link href="https://fonts.googleapis.com/css?family=Chonburi|Pacifico" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Playball" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Baloo+Bhaina" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+
 <link href="/public/css/styles.css" rel="stylesheet">
 </head>
 
@@ -85,7 +88,7 @@
         <footer class="footer">
            
                     <p>Copyright &copy; Veronica Ann Adams 2017</p>
-                    <p>Web Dev & Design<a href="johnallenhopper.now.sh">  John A. Hopper</a></p>
+                    <p>Web Dev & Design<a href="https://johnallenhopper.now.sh">  John A. Hopper</a></p>
              
         </footer>
 

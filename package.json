@@ -1,12 +1,12 @@
 {
-  "name": "va_gulp",
+  "name": "Veronica_Adams_Photograhy",
   "version": "0.0.0",
   "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp"
   },
-  "author": "",
+  "author": "John_Allen_Hopper_jahopp@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "bootstrap": "^3.3.7",

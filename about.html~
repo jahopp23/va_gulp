@@ -43,7 +43,7 @@
 </nav>
 
 <section class="about-section">
-<h3> About Me</h3>
+<h2> About Me</h2>
 <div class="jumbotron">
 <div class="panel panel-default">
 <p>
@@ -59,7 +59,7 @@ I have a passion for escaping into nature, connecting with my roots, and capturi
         <footer class="footer">
             
                     <p>Copyright &copy; Veronica Ann Adams 2017</p>
-                    <p>Web Developer <a href="johnallenhopper.now.sh">John A. Hopper</a></p>
+                    <p>Web Developer <a href="https://johnallenhopper.now.sh">John A. Hopper</a></p>
                
         </footer>
 
