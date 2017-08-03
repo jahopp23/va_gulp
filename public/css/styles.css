@@ -6,7 +6,7 @@
    background-position: 50% 20%;
   
   
-   margin-top: -2.00em;
+   margin-top: 10.00em;
    
    background-repeat: no-repeat;
    }
@@ -77,12 +77,11 @@
      }
 
 .header h3{	
-	text-align:left;
-	font-family:'Playball';
+	text-align: center;
+	font-family:'Josefin Sans';
 	color: black;
-	margin-top: 1.00em;
-	margin-left: 1.00em;
-  font-size: 2.00em;
+	
+  font-size: 5.00em;
 	
 	
 }
@@ -90,16 +89,25 @@
 .links ul li{
   display: inline-block;
   margin-right: 3.00em;
+  font-weight: bolder;
+ 
+  
   
   
 }
 
 .links{
-  text-align: right;
+  text-align: center;
   position: relative;
-  top: -2.00em;
+  top: 1.00em;
+  font-family: 'Josefin Sans';
+  font-size: 2.00em;
 
 
+}
+
+.links ul li a{
+   font-color: black;
 }
 
 .link-row ul li a{
@@ -292,13 +300,14 @@ img{
             }
     
     .jumbotron h1{
-       font-style: italic;
+    
        text-align: center;
        }
        
        .jumbotron p{
           text-align: center;
           padding: 0 50px;
+          font-family: 'Josefin Sans';
           }
 
 
@@ -306,6 +315,7 @@ img{
    width: 100%;
    height: 200px;
    text-align: center;
+   margin-top: 15.00em;
 
 
 }
@@ -314,17 +324,25 @@ img{
    
   
   margin-top: 3.00em;
+  font-family: 'Josefin Sans';
+}
+
+.galleries-section h1{
+   font-family: 'Josefin Sans';
+   font-weight: bolder;
 }
 
 .about-section{
   width: 100%;
   height: 500px;
   text-align: center;
+  margin-top: 15.00em;
   }
 
-.about-section h3{
-   font-style: italic;
+.about-section h2{
    margin-top: 3.00em;
+   font-family: 'Josefin Sans';
+   font-weight: bolder;
    }
    
 .about-section p {
@@ -336,15 +354,17 @@ img{
     width: 100%;
     height: 500px;
     text-align: center;
-    margin-top: 5.00em;
+    margin-top: 15.00em;
     }
     
-.contact-section h3{
+.contact-section h2{
+    font-family: 'Josefin Sans';
+    font-weight: bolder;
 
     }
     
 .galleries-section .panel-default h3{
-   font-style: none;
+   font-style: bold;
    padding: 0;
    margin-top: 0;
    }
